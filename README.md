@@ -185,6 +185,9 @@ The Streamlit app (`app.py`) provides:
 - **Confidence score** showing model's prediction probability
 - **Career guidance panel** with role-specific recommended skills, certifications, and a 5-step learning roadmap for all 12 career paths
 
+> <img width="1918" height="862" alt="Screenshot 2026-06-08 181203" src="https://github.com/user-attachments/assets/478d2851-0970-4661-a468-31913cd48e5f" />
+> <img width="1918" height="806" alt="Screenshot 2026-06-08 181225" src="https://github.com/user-attachments/assets/b40e61f7-6ce5-483c-b7fd-660fc75f5233" />
+
 ---
 
 ## 📈 Business Metrics
